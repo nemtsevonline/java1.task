@@ -9,8 +9,8 @@
 В результате тестирования выявлены следующие дефекты:
 
 * [Результат Fail при вводе корректного ключа в терминале GIT](https://github.com/nemtsevonline/java1.task1/issues/1)
-* [https://github.com/nemtsevonline/java1.task/issues/2](https://github.com/nemtsevonline/java1.task1/issues/2)
-* [https://github.com/nemtsevonline/java1.task/issues/3](https://github.com/nemtsevonline/java1.task1/issues/3)
+* [Результат OK при вводе некорректного ключа в терминале GIT](https://github.com/nemtsevonline/java1.task1/issues/2)
+* [Некорректный номер ключа в руководстве использования KeyValidator](https://github.com/nemtsevonline/java1.task1/issues/3)
 
 ## Описание процесса тестирования
 
